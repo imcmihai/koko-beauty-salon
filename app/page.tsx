@@ -1,8 +1,8 @@
-export default function Page() {
+export default function Home() {
   return (
-    <main style={{ backgroundColor: '#ffc0cb', height: '100vh', display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column' }}>
-      <h1 style={{ color: 'white', fontSize: '4rem', fontWeight: 'bold' }}>Koko Beauty Salon</h1>
-      <p style={{ color: 'white', fontSize: '1.5rem' }}>Welcome to our beautiful salon!</p>
+    <main className="p-8">
+      <h1 className="text-4xl font-bold text-pink-600">Welcome to Koko Beauty Salon</h1>
+      <p className="mt-4 text-lg">Experience beauty and elegance with us.</p>
     </main>
   )
 }
