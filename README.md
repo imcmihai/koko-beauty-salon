@@ -1,3 +1,3 @@
-# koko-beauty-salon
+# Koko Beauty Salon
 
-Next.js app for Koko Beauty Salon with pink hero section
+Next.js app for Koko Beauty Salon with pink hero section.
